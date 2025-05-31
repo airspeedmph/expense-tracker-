@@ -8,7 +8,7 @@ enum Category { food, travel, leisure, work }
 const categoryIcons = {
   Category.food : Icon(Icons.lunch_dining),
   Category.leisure : Icon(Icons.movie),
-  Category.work : Icon(Icons.work),
+  Category.work : Icon(Icons.work ),
   Category.travel : Icon(Icons.flight_takeoff),
 
   };
